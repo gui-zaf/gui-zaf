@@ -9,9 +9,9 @@
 
 [![studies](https://skillicons.dev/icons?i=js,kotlin,swift,git)](https://skillicons.dev)
 
-## Skills
+## Badges
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,php,java,c,python,github,git,postman,docker,ps)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=html,css,js,php,java,c,python,github,git,postman,docker,ps&perline=4)](https://skillicons.dev)
 
 ## emojo.kt
 
