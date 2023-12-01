@@ -1,17 +1,24 @@
-### Hi there 👋
-[![Zafcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-zaf)](https://github.com/gui-zaf/github-readme-stats)
-![Zafcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-<!--
-**gui-zaf/gui-zaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Que bom ter você aqui!🐈‍⬛</h1>
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Um dia serei full stack.
+- 🚀 Apaixonado por tecnologia e inovação.
+- 📕 Cursando Desenvolvimento de Software Multiplataforma.
+- 🏫 Faculdade de Tecnologia do Estado de São Paulo.
+
+<h1>✨Conhecimentos</h1>
+
+## Front-end: 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+## Back-end
+[![My Skills](https://skillicons.dev/icons?i=php,java,kotlin)](https://skillicons.dev)
+
+
+
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=gui-zaf&show_icons=true&theme=dark" />
+  </a>
+
+
+
