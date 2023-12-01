@@ -17,8 +17,9 @@
 
 ```kotlin
 fun main() {
-    val kotlin = "🙂"
-    println(kotlin)
+    val kotlin = "🥺"
+    print(kotlin)
+    print("carinha de pedindo emprego")
 }
 
 
