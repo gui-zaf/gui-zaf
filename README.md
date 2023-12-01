@@ -1,5 +1,3 @@
-<h1>Que bom ter você aqui!🐈‍⬛</h1>
-
 ## Sobre Mim
 
 - 🌐 Um dia serei full stack.
@@ -7,11 +5,20 @@
 - 📕 Cursando Desenvolvimento de Software Multiplataforma.
 - 🏫 Faculdade de Tecnologia do Estado de São Paulo.
 
-<h1>Estudando:</h1>
+<h3>Atualmente estou estudando:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin,swift)](https://skillicons.dev)
+[![studies](https://skillicons.dev/icons?i=js,kotlin,swift,git)](https://skillicons.dev)
 
+## Skills
 
+[![skills](https://skillicons.dev/icons?i=html,css,js,php,java,c,python,github,git,postman,docker,ps)](https://skillicons.dev)
 
+## emojo.kt
+
+```kotlin
+fun main() {
+    val kotlin = "🙂"
+    println(kotlin)
+}
 
 
