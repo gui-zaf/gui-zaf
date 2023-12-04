@@ -1,11 +1,11 @@
-## Sobre Mim
+## About Me
 
-- 🌐 Um dia serei full stack.
-- 🚀 Apaixonado por tecnologia e inovação.
-- 📕 Cursando Desenvolvimento de Software Multiplataforma.
-- 🏫 Faculdade de Tecnologia do Estado de São Paulo.
+- 🌐 I aim to become a full-stack developer.
+- 🚀 Passionate about technology and innovation.
+- 📕 Currently pursuing a degree in Multiplatform Software Development.
+- 🏫 Attending the Faculty of Technology of the State of São Paulo.
 
-<h3>Atualmente estou estudando:</h3>
+<h3>Currently studying:</h3>
 
 [![studies](https://skillicons.dev/icons?i=js,kotlin,swift,git)](https://skillicons.dev)
 
@@ -19,14 +19,12 @@
 fun main() {
     val kotlin = "🥺"
     print(kotlin)
-    print("carinha de pedindo emprego")
+    print("sad face asking for a job")
 }
 ```
 
-## Linktree
-[![IDE](https://skillicons.dev/icons?i=instagram,linkedin,github)](https://skillicons.dev)
-
-[More...](https://linktr.ee/zafcode)
-
-
-
+## Linktree ✨
+[![IDE](https://skillicons.dev/icons?i=linkedin,github,instagram)](https://skillicons.dev)
+<h4>
+    https://linktr.ee/zafcode
+</h4>
