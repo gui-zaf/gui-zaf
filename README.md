@@ -21,5 +21,12 @@ fun main() {
     print(kotlin)
     print("carinha de pedindo emprego")
 }
+```
+
+## Linktree
+[![IDE](https://skillicons.dev/icons?i=instagram,linkedin,github)](https://skillicons.dev)
+
+[More...](https://linktr.ee/zafcode)
+
 
 
