@@ -23,7 +23,7 @@ fun main() {
 }
 ```
 
-## Linktree ✨
+## Linktr.ee ✨
 [![IDE](https://skillicons.dev/icons?i=linkedin,github,instagram)](https://skillicons.dev)
 <h4>
     https://linktr.ee/zafcode
