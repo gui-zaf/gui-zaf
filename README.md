@@ -3,7 +3,7 @@
 - 🌐 I aim to become a full-stack developer.
 - 🚀 Passionate about technology and innovation.
 - 📕 Currently pursuing a degree in Multiplatform Software Development.
-- 🏫 Attending the Faculty of Technology of the State of São Paulo.
+- 🏫 I am a student of the São Paulo State Technological College.
 
 <h3>Currently studying:</h3>
 
