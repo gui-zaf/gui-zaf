@@ -24,7 +24,7 @@ fun main() {
 ```
 
 ## Linktr.ee ✨
-[![IDE](https://skillicons.dev/icons?i=linkedin,github,instagram)](https://skillicons.dev)
+[![sociak](https://skillicons.dev/icons?i=linkedin,github,instagram)](https://skillicons.dev)
 <h4>
     https://linktr.ee/zafcode
 </h4>
