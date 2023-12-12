@@ -7,7 +7,7 @@
 
 ## Statistics:
 
-[![Guilherme Ferraz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gui-zaf&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=true&border_radius=16)](https://github.com/gui-zaf/github-readme-stats)
+[![Guilherme Ferraz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gui-zaf&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=true&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently studying:
 
