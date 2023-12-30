@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&size=51&duration=3500&pause=200&color=E7415D&vCenter=true&repeat=false&random=false&width=700&lines=Full+Stack+|+UX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&size=51&duration=3500&pause=200&color=E7415D&vCenter=true&repeat=false&random=false&width=700&lines=Full+Stack+and+UX+Designer)](https://git.io/typing-svg)
 ## About Me
 
 - 🚀 Passionate about technology and innovation.
