@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&size=33&duration=2500&pause=200&color=FFFFFF&vCenter=true&repeat=false&random=false&width=700&lines=Wellcome+to+my+GitHub.;My+name+is+Guilherme+Ferraz.;Full+Stack+and+UX+Designer)](https://git.io/typing-svg)
 ## About Me
 
 - 🌐 I aim to become a full-stack developer.
