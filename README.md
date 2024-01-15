@@ -12,7 +12,7 @@
 
 ## Currently studying:
 
-[![studies](https://skillicons.dev/icons?i=js,nodejs,kotlin,swift,git)](https://skillicons.dev)
+[![studies](https://skillicons.dev/icons?i=js,nodejs,kotlin,swift,git,mysql&perline=3)](https://skillicons.dev)
 
 ## Skills:
 
