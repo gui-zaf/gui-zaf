@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=60&duration=4000&pause=1000&color=F7BD24&background=574D0D00&repeat=false&random=false&width=600&height=90&lines=Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=60&duration=4000&pause=1000&color=F7BD24&background=574D0D00&repeat=false&random=false&width=600&height=100&lines=Software+Engineer)](https://git.io/typing-svg)
 ## About Me
 
 - 🚀 Passionate about technology and innovation.
