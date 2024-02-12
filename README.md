@@ -22,9 +22,9 @@
 
 ```kotlin
 fun main() {
-    val kotlin = "🥺"
+    val kotlin = "😁"
     print(kotlin)
-    print("sad face asking for a job")
+    print("Im working <3")
 }
 ```
 ## Linktr.ee ✨
