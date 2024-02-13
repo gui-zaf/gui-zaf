@@ -18,7 +18,7 @@
 
 [![skills](https://skillicons.dev/icons?i=html,css,js,kotlin,java,c,python,github,git,postman,docker,ps&perline=4)](https://github.com/gui-zaf)
 
-## emojo.kt
+## main.kt
 
 ```kotlin
 fun main() {
