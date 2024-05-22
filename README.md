@@ -12,11 +12,11 @@
 
 ## Currently studying:
 
-[![studies](https://skillicons.dev/icons?i=js,nodejs,kotlin,swift,git,mysql&perline=3)](https://github.com/gui-zaf)
+[![studies](https://skillicons.dev/icons?i=js,nodejs,kotlin,swift,git,mysql,mongodb,java,vite&perline=3)](https://github.com/gui-zaf)
 
 ## Skills:
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,kotlin,java,c,python,github,git,postman,docker,ps&perline=4)](https://github.com/gui-zaf)
+[![skills](https://skillicons.dev/icons?i=html,css,js,react,java,c,python,github,git,postman,docker,ps&perline=4)](https://github.com/gui-zaf)
 
 ## main.kt
 
