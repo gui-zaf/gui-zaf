@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=60&duration=4000&pause=1000&color=FA5719&background=574D0D00&repeat=false&random=false&width=600&height=100&lines=Data+Analyst)](https://github.com/gui-zaf)
-## About Me
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ita%C3%BA_Unibanco_logo_2023.svg/2048px-Ita%C3%BA_Unibanco_logo_2023.svg.png" width="100px">
+  <a href="https://github.com/gui-zaf">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=50&duration=4000&pause=1000&color=FA5719&background=574D0D00&repeat=false&random=false&width=620&height=70&lines=Investment+Analyst">
+  </a>
+</p>
 
 - 🚀 Passionate about technology and innovation.
 - 📕 Currently pursuing a degree in Multiplatform Software Development.
@@ -10,25 +14,15 @@
 [![Guilherme Ferraz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gui-zaf&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=true&border_radius=16)](https://github.com/gui-zaf) <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=gui-zaf&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://github.com/gui-zaf)
 
-## Currently studying:
-
-[![studies](https://skillicons.dev/icons?i=js,nodejs,kotlin,swift,git,mysql,mongodb,java,vite&perline=3)](https://github.com/gui-zaf)
-
 ## Skills:
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,react,java,c,python,github,git,postman,docker,ps&perline=4)](https://github.com/gui-zaf)
+[![skills](https://skillicons.dev/icons?i=react,vite,javascript,typescript,java,kotlin,c,python,git,docker,mysql,mongodb&perline=4)](https://github.com/gui-zaf)
 
-## main.kt
-
-```kotlin
-fun main() {
-    val kotlin = "😁"
-    print(kotlin)
-    print("Im working <3")
-}
-```
-## Linktr.ee ✨
-[![sociaL](https://skillicons.dev/icons?i=linkedin,github,instagram)](https://linktr.ee/zafcode)
-<h4>
-    https://linktr.ee/zafcode
-</h4>
+## Zafcode ✨<br>
+<p>
+     
+  <a href="https://www.zafcode.com.br/">
+      <img src="https://www.zafcode.com.br/images/zafcode.png" width="90px">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=4000&pause=1000&color=844EFD&background=574D0D00&repeat=false&random=false&width=620&height=50&lines=Portfolio">
+  </a>
+</p>
