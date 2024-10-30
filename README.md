@@ -16,7 +16,7 @@
 
 ## Skills:
 
-[![skills](https://skillicons.dev/icons?i=react,vite,javascript,typescript,java,kotlin,c,python,git,docker,mysql,mongodb&perline=4)](https://github.com/gui-zaf)
+nenhuma
 
 ## Zafcode ✨<br>
 <p>
