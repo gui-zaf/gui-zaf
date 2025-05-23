@@ -11,6 +11,18 @@
 
 ## Statistics:
 
-[![Guilherme Ferraz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gui-zaf&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=true&border_radius=16)](https://github.com/gui-zaf) <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=gui-zaf&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://github.com/gui-zaf)
-
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-zaf&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical">
+    </td>
+    <td>
+      <a href="https://github.com/gui-zaf">
+        <img src="https://streak-stats.demolab.com?user=gui-zaf&theme=dark&hide_border=true&exclude_days=Sun%2CSat">
+      </a><br>
+      <a href="https://github.com/gui-zaf">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gui-zaf&count_private=true&hide=contribs&hide_title=true&layout=compact&show_icons=true&theme=dark&icon_color=58a6ff&hide_border=true&border_radius=16">
+      </a>
+    </td>
+  </tr>
+</table>
